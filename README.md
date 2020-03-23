@@ -1,4 +1,4 @@
-# Arduino-Punteros
+# Arduino Punteros
 
 //Dato: Un puntero es un tipo de dato que contine
 //una direccion de memoria.
