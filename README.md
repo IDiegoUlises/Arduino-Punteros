@@ -14,7 +14,7 @@ int variable = 3;
 int *puntero;
 ```
 
-**Apuntar una direccion de memoria ram de una variable**
+**Apuntar una direccion de memoria de una variable**
 ```c++
 puntero = &variable;
 ```
