@@ -10,7 +10,7 @@ SI
 
 **Declarar un puntero** 
 ```c++
-int variable;
+int variable = 3;
 int *puntero;
 ```
 
@@ -21,5 +21,11 @@ puntero = &variable;
 
 **Cambiar el valor de una variable**
 ```c++
-*puntero = 9;
+*puntero = 8;
 ``` 
+
+## Ver la direccion RAM de una variable
+```c++
+ int variable = 3;
+ Serial.println((int)&variable);
+```
