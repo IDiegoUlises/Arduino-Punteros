@@ -11,7 +11,7 @@ SI
 **Declarar un puntero** 
 ```c++
 int variable;
-int *Puntero;
+int *puntero;
 ```
 
 **Apuntar una direccion de una variable**
